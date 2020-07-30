@@ -5,7 +5,7 @@ I’m Anish, a Software engineer at Matchmove Pay. Passionate about creating bea
 
 
 - :computer:   Front-End/Full-Stack Developer.
-- :grimacing:    Decent DSA, Algo skills.
+- :grimacing:    Decent skills in Data structures and Algorithms.
 - :heart:   To learn new concepts and keeping up-to-date with latest technological developments.
 - :golf:   My Leetcode -  https://leetcode.com/anishojha82/
 - :eyes:   My linkedin - https://www.linkedin.com/in/anish-ojha/
