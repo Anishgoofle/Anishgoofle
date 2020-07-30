@@ -7,6 +7,6 @@ I’m Anish, a Software engineer at Matchmove Pay. Passionate about creating bea
 - :computer:   Front-End/Full-Stack Developer.
 - :heart:   Learning new concepts and keeping up-to-date with latest technological developments.
 - :grimacing:    Decent skills in Data structures and Algorithms.
-- :golf:   My Leetcode -  https://leetcode.com/anishojha82/
+- :star2:   My Leetcode -  https://leetcode.com/anishojha82/
 - :eyes:   My linkedin - https://www.linkedin.com/in/anish-ojha/
 - :mailbox: Contact me - anishojha82@gmail.com
