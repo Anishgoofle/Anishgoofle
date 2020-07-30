@@ -11,3 +11,9 @@ I’m Anish, a Software engineer at Matchmove Pay. Passionate about creating bea
 - :star2:        My Leetcode -  https://leetcode.com/anishojha82/
 - :eyes:         My linkedin - https://www.linkedin.com/in/anish-ojha/
 - :mailbox:      Contact me - anishojha82@gmail.com
+
+---
+>A successful website does three things:                                      
+> - It attracts the right kinds of visitors.
+> - Guides them to the main services or product you offer.
+> - Collect Contact details for future ongoing relation.
