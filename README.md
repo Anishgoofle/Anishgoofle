@@ -13,7 +13,8 @@ I’m Anish, a Software engineer at Matchmove Pay. Passionate about creating bea
 - :mailbox:      Contact me - anishojha82@gmail.com
 
 ---
->A successful website does three things:                                      
-> - It attracts the right kinds of visitors.
-> - Guides them to the main services or product you offer.
-> - Collect Contact details for future ongoing relation.
+```
+A successful website does three things:                                      
+ - It attracts the right kinds of visitors.
+ - Guides them to the main services or product you offer.
+ - Collect Contact details for future ongoing relation.
