@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<a href="https://app.daily.dev/Anish_Ojha"><img src="https://api.daily.dev/devcards/af84348240a640ee93b7527cf742f9d8.png?r=all" width="400" alt="Anish Ojha's Dev Card"/></a>
+<a href="https://app.daily.dev/Anish_Ojha"><img src="https://github.com/Anishgoofle/Anishgoofle/blob/master/devcard.svg" width="400" alt="Anish Ojha's Dev Card"/></a>
 
 I’m Anish, a Senior Software engineer at Paytm. Passionate about creating beautiful, intuitive UI.Skilled in ReactJS, Angular, Web development, Web Design, TypeScript, JavaScript, DOM manipulation, etc. Looking for experiences to learn more about career paths and ways to grow into the role of a Front-End/Full-Stack Developer in the next few years.
 
