@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/Anish_Ojha"><img src="https://github.com/Anishgoofle/Anishgoofle/blob/master/devcard.svg" width="400" alt="Anish Ojha's Dev Card"/></a>
 
-I’m Anish, a Senior Software engineer at Paytm. Passionate about creating beautiful, intuitive UI.Skilled in ReactJS, Angular, Web development, Web Design, TypeScript, JavaScript, DOM manipulation, etc. Looking for experiences to learn more about career paths and ways to grow into the role of a Front-End/Full-Stack Developer in the next few years.
+I’m Anish, a Senior Frontend Engineer with around 7 years of experience building high-scale, performant, and secure web applications at PhonePe. Specialized in React, TypeScript, and modern web architecture, with deep expertise in performance optimization (CLS, LCP, bundle reduction), design systems, and security (CSP, XSS prevention). Proven track record of owning end-to-end features impacting users, driving cross-functional collaboration, and mentoring engineers. Currently focused on frontend architecture, microfrontends, with a strong drive to shape user experiences that are both intuitive and scalable.
 
 
 - :computer:     Front-End Engineer.
